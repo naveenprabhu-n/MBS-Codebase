@@ -53,7 +53,7 @@ module "app" {
   }
 }
 
-module "lb" {
+module "load_balancer" {
   source = "terraform-google-modules/load-balancer/google"
 
   name            = "${var.loadblancer_name}"
