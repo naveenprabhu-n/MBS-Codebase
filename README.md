@@ -1,1 +1,1 @@
-# Terraform, GCP and python codebase - for KPMG MBS
+# Terraform, GCP and python codebase - for MBS
